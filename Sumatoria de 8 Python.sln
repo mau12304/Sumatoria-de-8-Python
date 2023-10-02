@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Sumatoria de 8 Python", "Sumatoria de 8 Python.\Sumatoria de 8 Python.pyproj", "{FB57E68B-A02F-4C07-AC07-C23BCE48AB09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB57E68B-A02F-4C07-AC07-C23BCE48AB09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB57E68B-A02F-4C07-AC07-C23BCE48AB09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9AF690CB-A76B-4E0D-A42E-8013135CE772}
+	EndGlobalSection
+EndGlobal
